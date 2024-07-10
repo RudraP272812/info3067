@@ -1,0 +1,252 @@
+[
+  {
+    "Name": "Indian Spirit House",
+    "Products": [
+      {
+        "ProductName": "Indian Spiced Rum",
+        "Description": "Infused with exotic spices from India, this rum offers a warm and aromatic experience.",
+        "GraphicName": "indian_spiced_rum.jpg",
+        "CostPrice": 20.0,
+        "MSRP": 30.0,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 0
+      },
+      {
+        "ProductName": "Goan Feni",
+        "Description": "From the sunny beaches of Goa, Feni is a traditional spirit made from cashew apples, known for its fruity and nutty flavors.",
+        "GraphicName": "goan_feni.jpg",
+        "CostPrice": 15.0,
+        "MSRP": 25.0,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 0
+      },
+      {
+        "ProductName": "Bengali Mango Liqueur",
+        "Description": "Capture the essence of Bengal with this vibrant mango liqueur, bursting with sweet tropical notes.",
+        "GraphicName": "bengali_mango_liqueur.jpg",
+        "CostPrice": 18.0,
+        "MSRP": 28.0,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 0
+      },
+      {
+        "ProductName": "Kerala Arrack",
+        "Description": "A traditional distilled spirit from Kerala, Arrack features a rich, earthy flavor profile.",
+        "GraphicName": "kerala_arrack.jpg",
+        "CostPrice": 22.0,
+        "MSRP": 32.0,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 0
+      },
+      {
+        "ProductName": "Punjabi Whisky Blend",
+        "Description": "Crafted in Punjab, this whisky blend balances smoothness with robust character, reflecting the region's spirit.",
+        "GraphicName": "punjabi_whisky_blend.jpg",
+        "CostPrice": 25.0,
+        "MSRP": 35.0,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 0
+      }
+    ]
+  },
+  {
+    "Name": "Chinese Dragon Distilleries",
+    "Products": [
+      {
+        "ProductName": "Chinese Baijiu",
+        "Description": "Experience China's national spirit, Baijiu, renowned for its bold and complex flavors.",
+        "GraphicName": "chinese_baijiu.jpg",
+        "CostPrice": 30.0,
+        "MSRP": 40.0,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 0
+      },
+      {
+        "ProductName": "Sichuan Pepper Gin",
+        "Description": "Inspired by Sichuan's culinary heritage, this gin is infused with aromatic Sichuan peppercorns.",
+        "GraphicName": "sichuan_pepper_gin.jpg",
+        "CostPrice": 28.0,
+        "MSRP": 38.0,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 0
+      },
+      {
+        "ProductName": "Taiwanese Kaoliang",
+        "Description": "Kaoliang, a potent liquor from Taiwan, offers a unique taste with hints of grains and herbs.",
+        "GraphicName": "taiwanese_kaoliang.jpg",
+        "CostPrice": 32.0,
+        "MSRP": 42.0,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 0
+      },
+      {
+        "ProductName": "Shaoxing Rice Wine",
+        "Description": "A staple of Chinese cuisine, Shaoxing rice wine combines subtle sweetness with a delicate aroma.",
+        "GraphicName": "shaoxing_rice_wine.jpg",
+        "CostPrice": 20.0,
+        "MSRP": 30.0,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 0
+      },
+      {
+        "ProductName": "Hong Kong Whisky",
+        "Description": "Reflecting Hong Kong's cosmopolitan flair, this whisky blends tradition with modern sophistication.",
+        "GraphicName": "hong_kong_whisky.jpg",
+        "CostPrice": 35.0,
+        "MSRP": 45.0,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 0
+      }
+    ]
+  },
+  {
+    "Name": "American Frontier Spirits",
+    "Products": [
+      {
+        "ProductName": "Kentucky Bourbon",
+        "Description": "Discover the heart of America with Kentucky bourbon, aged to perfection in charred oak barrels.",
+        "GraphicName": "kentucky_bourbon.jpg",
+        "CostPrice": 25.0,
+        "MSRP": 35.0,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 0
+      },
+      {
+        "ProductName": "Tennessee Whiskey",
+        "Description": "A tribute to Tennessee's whiskey-making heritage, this spirit offers a smooth and smoky profile.",
+        "GraphicName": "tennessee_whiskey.jpg",
+        "CostPrice": 28.0,
+        "MSRP": 38.0,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 0
+      },
+      {
+        "ProductName": "California Cabernet Sauvignon",
+        "Description": "From California's vineyards, this Cabernet Sauvignon wine boasts bold fruit flavors and a rich finish.",
+        "GraphicName": "california_cabernet_sauvignon.jpg",
+        "CostPrice": 22.0,
+        "MSRP": 32.0,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 0
+      },
+      {
+        "ProductName": "New York Rye Whiskey",
+        "Description": "New York rye whiskey delivers a spicy kick and a distinctive character, perfect for classic cocktails.",
+        "GraphicName": "new_york_rye_whiskey.jpg",
+        "CostPrice": 30.0,
+        "MSRP": 40.0,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 0
+      },
+      {
+        "ProductName": "Texas Tequila",
+        "Description": "Made from blue agave, Texas tequila embodies the spirit of the Lone Star State with its bold flavor.",
+        "GraphicName": "texas_tequila.jpg",
+        "CostPrice": 35.0,
+        "MSRP": 45.0,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 0
+      }
+    ]
+  },
+  {
+    "Name": "Mexican Fiesta Spirits",
+    "Products": [
+      {
+        "ProductName": "Mexican Mezcal",
+        "Description": "Handcrafted in Oaxaca, this mezcal captures the essence of Mexico with its smoky and earthy notes.",
+        "GraphicName": "mexican_mezcal.jpg",
+        "CostPrice": 25.0,
+        "MSRP": 35.0,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 0
+      },
+      {
+        "ProductName": "Jalisco Tequila Reposado",
+        "Description": "From Jalisco's blue agave fields, reposado tequila offers a smooth balance of oak and agave sweetness.",
+        "GraphicName": "jalisco_tequila_reposado.jpg",
+        "CostPrice": 28.0,
+        "MSRP": 38.0,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 0
+      },
+      {
+        "ProductName": "Michoac�n Charanda",
+        "Description": "Unique to Michoac�n, Charanda is a sugarcane spirit known for its crispness and floral undertones.",
+        "GraphicName": "michoacan_charanda.jpg",
+        "CostPrice": 22.0,
+        "MSRP": 32.0,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 0
+      },
+      {
+        "ProductName": "Veracruz Coffee Liqueur",
+        "Description": "Indulge in the flavors of Veracruz with this coffee liqueur, blending rich coffee beans with Mexican spirits.",
+        "GraphicName": "veracruz_coffee_liqueur.jpg",
+        "CostPrice": 20.0,
+        "MSRP": 30.0,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 0
+      },
+      {
+        "ProductName": "Yucat�n Habanero Infused Vodka",
+        "Description": "Infused with fiery Yucat�n habanero peppers, this vodka adds a spicy kick to cocktails.",
+        "GraphicName": "yucatan_habanero_infused_vodka.jpg",
+        "CostPrice": 30.0,
+        "MSRP": 40.0,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 0
+      }
+    ]
+  },
+  {
+    "Name": "Scottish Highland Spirits",
+    "Products": [
+      {
+        "ProductName": "Highland Single Malt Scotch",
+        "Description": "Experience the essence of Scotland with this single malt scotch, offering notes of peat and heather.",
+        "GraphicName": "highland_single_malt_scotch.jpg",
+        "CostPrice": 40.0,
+        "MSRP": 50.0,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 0
+      },
+      {
+        "ProductName": "Islay Peated Whisky",
+        "Description": "From Islay's rugged landscapes, this peated whisky delivers a powerful smoky flavor.",
+        "GraphicName": "islay_peated_whisky.jpg",
+        "CostPrice": 45.0,
+        "MSRP": 55.0,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 0
+      },
+      {
+        "ProductName": "Speyside Sherry Cask Whisky",
+        "Description": "Aged in sherry casks, this Speyside whisky combines sweetness with a complex finish.",
+        "GraphicName": "speyside_sherry_cask_whisky.jpg",
+        "CostPrice": 50.0,
+        "MSRP": 60.0,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 0
+      },
+      {
+        "ProductName": "Lowland Grain Whisky",
+        "Description": "Smooth and approachable, Lowland grain whisky offers a lighter alternative to traditional malts.",
+        "GraphicName": "lowland_grain_whisky.jpg",
+        "CostPrice": 35.0,
+        "MSRP": 45.0,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 0
+      },
+      {
+        "ProductName": "Campbeltown Blended Scotch",
+        "Description": "Blended in Campbeltown, this scotch whisky balances rich flavors with a smooth finish.",
+        "GraphicName": "campbeltown_blended_scotch.jpg",
+        "CostPrice": 38.0,
+        "MSRP": 48.0,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 0
+      }
+    ]
+  }
+]
